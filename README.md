@@ -40,6 +40,7 @@ The start/end parts of the automatically generated code are marked as follows:
 == Verifying EPTs for CVE-2016-9079 ==
 
 == Tested on Windows 10 (x64) in VirtualBox ==
+
 == Target: Mozilla Firefox 50.0.1 32-bit ==
 
 Test with EPT:
