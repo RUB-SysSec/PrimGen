@@ -71,7 +71,7 @@ WinDbg (X64) should appear)
 ```
 - NOTE: check also the line *"Debug child processes also"*
 - Click the *"Open"* button
-- Ppress F5 until Firefox appears (during execution if you see *"int 3"* or
+- Press F5 until Firefox appears (during execution if you see *"int 3"* or
 *"ret"* in the debugger press F5)
 
 #### 4) Serve the EPTs via python's build in server (or choose a method of your liking):
